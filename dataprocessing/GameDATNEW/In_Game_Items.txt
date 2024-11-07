@@ -1,0 +1,117 @@
+Basic Magazine: upgrade_clip_size
+Close Quarters: upgrade_close_range
+Headshot Booster: upgrade_headshot_booster
+High-Velocity Mag: upgrade_high_velocity_mag
+Hollow Point Ward: upgrade_hollow_point_rounds
+Monster Rounds: upgrade_non_player_bonus
+Rapid Rounds: upgrade_rapid_rounds
+Restorative Shot: upgrade_medic_bullets
+Active Reload: upgrade_active_reload
+Berserker: upgrade_berserker
+Kinetic Dash: upgrade_kinetic_sash
+Long Range: upgrade_long_range
+Melee Charge: upgrade_melee_charge
+Mystic Shot: upgrade_crackshot
+Slowing Bullets: upgrade_slowing_bullets
+Soul Shredder Bullets: upgrade_tech_defense_shredders
+Swift Striker: upgrade_blitz_bullets
+Fleetfoot: upgrade_fleetfoot_boots
+Burst Fire: upgrade_burst_fire
+Escalating Resilience: upgrade_reinforcing_casings
+Headhunter: upgrade_headhunter
+Hunter's Aura: upgrade_bullet_armor_reduction_aura
+Intensifying Magazine: upgrade_intensifying_clip
+Point Blank: upgrade_close_quarter_combat
+Pristine Emblem: upgrade_pristine_emblem
+Sharpshooter: upgrade_sharpshooter
+Tesla Bullets: upgrade_chain_lightning
+Titanic Magazine: upgrade_titan_round
+Toxic Bullets: upgrade_toxic_bullets
+Alchemical Fire: upgrade_thermal_detonator
+Heroic Aura: upgrade_dps_aura
+Warp Stone: upgrade_warp_stone
+Crippling Headshot: upgrade_banshee_slugs
+Frenzy: upgrade_fervor
+Glass Cannon: upgrade_glass_cannon
+Lucky Shot: upgrade_critshot
+Ricochet: upgrade_ricochet
+Spiritual Overflow: upgrade_tech_overflow
+Shadow Weave: upgrade_cloaking_device_active
+Silencer: upgrade_silencer
+Vampiric Burst: upgrade_surging_power
+Enduring Spirit: upgrade_resilience
+Extra Health: upgrade_health
+Extra Regen: upgrade_endurance
+Extra Stamina: upgrade_improved_stamina
+Melee Lifesteal: upgrade_lifestrike_gauntlets
+Sprint Boots: upgrade_sprint_booster
+Healing Rite: upgrade_health_stimpak
+Bullet Armor: upgrade_bullet_armor
+Bullet Lifesteal: upgrade_vampire
+Combat Barrier: upgrade_regenerating_bullet_shield
+Debuff Reducer: upgrade_debuff_reducer 
+Enchanter's Barrier: upgrade_magic_shield
+Enduring Speed: upgrade_cardio_calibrator
+Healbane: upgrade_healbane
+Healing Booster: upgrade_healing_booster
+Reactive Barrier: upgrade_vex_barrier
+Spirit Armor: upgrade_tech_armor
+Spirit Lifesteal: upgrade_health_stealing_magic
+Divine Barrier: upgrade_savior
+Health Nova: upgrade_health_nova
+Restorative Locket: upgrade_restorative_locket
+Return Fire: upgrade_return_fire
+Fortitude: upgrade_chonky
+Improved Bullet Armor: upgrade_improved_bullet_armor
+Improved Spirit Armor: upgrade_tech_purge
+Lifestrike: upgrade_boxing_glove
+Superior Stamina: upgrade_superior_stamina
+Veil Walker: upgrade_veil_walker
+Debuff Remover: upgrade_reduce_debuff_duration
+Majestic Leap: upgrade_rocket_booster
+Metal Skin: upgrade_metal_skin
+Rescue Beam: upgrade_rescue_beam
+Inhibitor: upgrade_inhibitor
+Leech: upgrade_damage_recycler
+Siphon Bullets: upgrade_siphon_bullets 
+Soul Rebirth: upgrade_rebirth
+Colossus: upgrade_colossus
+Phantom Strike: upgrade_phantom_strike
+Unstoppable: upgrade_unstoppable
+Ammo Scavenger: upgrade_ammo_scavenger
+Extra Charge: upgrade_extra_charge
+Extra Spirit: upgrade_improved_spirit
+Mystic Burst: upgrade_magic_burst
+Mystic Reach: upgrade_magic_reach
+Spirit Strike: upgrade_acolytes_glove
+Infuser: upgrade_infuser
+Bullet Resist Shredder: upgrade_bullet_resist_shredder
+Duration Extender: upgrade_arcane_extension
+Improved Cooldown: upgrade_magic_tempo
+Mystic Vulnerability: upgrade_magic_vulnerability
+Quicksilver Reload: upgrade_quick_silver
+Suppressor: upgrade_suppressor 
+Cold Front: upgrade_cold_front
+Decay: upgrade_rupture
+Slowing Hex: upgrade_containment
+Withering Whip: upgrade_withering_whip
+Improved Burst: upgrade_magic_shock 
+Improved Reach: upgrade_tech_range
+Improved Spirit: upgrade_soaring_spirit
+Mystic Slow: upgrade_magic_slow
+Rapid Recharge: upgrade_rapid_recharge
+Superior Cooldown: upgrade_cooldown_reduction
+Superior Duration: upgrade_imbued_duration_extender
+Surge of Power: upgrade_magic_storm
+Torment Pulse: upgrade_tech_damage_pulse
+Ethereal Shift: upgrade_self_bubble
+Knockdown: upgrade_target_stun
+Silence Glyph: upgrade_targeted_silence
+Boundless Spirit: upgrade_mega_spirit
+Divine's Kevlar: upgrade_diviners_kevlar
+Escalating Exposure: upgrade_escalating_exposure
+Mystic Reverb: upgrade_tech_bleed
+Curse: upgrade_glitch
+Echo Shard: upgrade_ability_power_shard
+Magic Carpet: upgrade_magic_carpet
+Refresher: upgrade_ability_refresher

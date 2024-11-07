@@ -1,0 +1,50 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+/* width */
+::-webkit-scrollbar {
+  width: 8px;
+}
+
+/* Track */
+::-webkit-scrollbar-track {
+  background: #f1f1f1;
+}
+
+/* Handle */
+::-webkit-scrollbar-thumb {
+  background: #888;
+  border-radius: 4px;
+}
+
+/* Handle on hover */
+::-webkit-scrollbar-thumb:hover {
+  background: #555;
+}
+
+html,
+body {
+  height: 100%;
+  font-size: 16px;
+}
+
+
+body {
+  @apply font-Deadlock-black text-custom-beige bg-custom-bg;
+}
+
+@layer utilities {
+  .scale-90 {
+    transform: scale(0.9);
+  }
+
+  .scale-80 {
+    transform: scale(0.8);
+  }
+
+  .origin-top-left {
+    transform-origin: top left;
+  }
+}

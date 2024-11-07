@@ -1,0 +1,21 @@
+Cooldown: Upgrade before ETechCooldown Scaling
+Duration: Upgrade before ETechDuration Scaling
+Range: Upgrade before ETechRange Scaling
+
+scale_function_multi_stats:
+EChannelTime: ignore
+
+
+Apply the scaling stat that comes first in m_vecScalingStats
+
+
+    skillScaling.forEach((element) => {
+        let skey : keyof typeof element;
+        for (skey in element) {
+            if (element[skey]._class === "scale_function_multi_stats") {
+                console.log(element[skey].m_vecScalingStats[0])
+                console.log(element[skey].m_vecScalingStats[1])
+            }
+        }
+
+    })

@@ -1,0 +1,270 @@
+{
+    "MODIFIER_VALUE_TECH_POWER":{
+        "mod_type": "add", 
+        "stat": "ETechPower"
+    },
+    "MODIFIER_VALUE_WEAPON_POWER":{
+		"mod_type": "add", 
+		"stat": "EBulletDamage"
+	},
+    "MODIFIER_VALUE_AMMO_CLIP_SIZE_PERCENT":{
+		"mod_type": "add", 
+		"stat": "EClipSizeIncrease"
+	},
+    "MODIFIER_VALUE_BASEATTACK_DAMAGE_PERCENT":{
+		"mod_type": "add",
+		"stat": "EBaseWeaponDamageIncrease"
+	},
+    "MODIFIER_NON_PLAYER_BONUS_BASE_DAMAGE_PERCENT":{
+		"mod_type": "skip", 
+		"stat": "EBaseWeaponDamageIncrease"
+	},
+    "MODIFIER_VALUE_HEALTH_MAX":{
+		"mod_type": "add", 
+		"stat": "EMaxHealth"
+	},
+    "MODIFIER_VALUE_HEALTH_REGEN_PER_SECOND":{
+		"mod_type": "add", 
+		"stat": "EBaseHealthRegen"
+	},
+    "MODIFIER_VALUE_BULLET_ARMOR_DAMAGE_RESIST_NON_HERO":{
+		"mod_type": "skip", 
+		"stat": "EBulletArmorDamageReduction"
+	},
+    "MODIFIER_VALUE_AMMO_CLIP_SIZE":{
+		"mod_type": "add", 
+		"stat": "EClipSize"
+	},
+    "MODIFIER_VALUE_FIRE_RATE":{
+		"mod_type": "add", 
+		"stat": "EFireRate"
+	},
+    "MODIFIER_VALUE_MOVEMENT_SPEED_MAX":{
+		"mod_type": "add", 
+		"stat": "EMaxMoveSpeed"
+	},
+    "MODIFIER_VALUE_TECH_SHIELD_HEALTH_MAX":{
+		"mod_type": "add", 
+		"stat": "ETechShieldHealth"
+	},
+    "MODIFIER_VALUE_TECH_ARMOR_DAMAGE_RESIST":{
+		"mod_type": "add", 
+		"stat": "ETechArmorDamageReduction"
+	},
+    "MODIFIER_VALUE_BONUS_BULLET_SPEED_PERCENT":{
+		"mod_type": "add", 
+		"stat": "EBulletSpeedIncrease"
+	},
+    "MODIFIER_VALUE_MOVEMENT_SPEED_WHILE_SHOOTING_PENALTY_REDUCTION_PERCENT":{
+		"mod_type": "skip", 
+		"stat": "EMaxMoveSpeed"
+	},
+    "MODIFIER_VALUE_MOVEMENT_SPEED_WHILE_ZOOMED_PENALTY_REDUCTION_PERCENT":{
+		"mod_type": "skip", 
+		"stat": "EMaxMoveSpeed"
+	},
+    "MODIFIER_VALUE_BULLET_SHIELD_HEALTH_MAX":{
+		"mod_type": "add", 
+		"stat": "EBulletShieldHealth"
+	},
+    "MODIFIER_VALUE_BASE_MELEE_DAMAGE_PERCENT":{
+		"mod_type": "percent", 
+		"stat": "ELightMeleeDamage"
+	},
+    "MODIFIER_VALUE_CLOSE_RANGE_BONUS_BASE_DAMAGE_PERCENT":{
+		"mod_type": "add", 
+		"stat": "EBaseWeaponDamageIncrease"
+	},
+    "MODIFIER_VALUE_BONUS_WEAPON_DAMAGE_CLOSE_RANGE_MAX_RANGE":{
+		"mod_type": "skip", 
+		"stat": "EBaseWeaponDamageIncrease"
+	},
+    "MODIFIER_VALUE_LONG_RANGE_BONUS_BASE_DAMAGE_PERCENT":{
+		"mod_type": "add", 
+		"stat": "EBaseWeaponDamageIncrease"
+	},
+    "MODIFIER_VALUE_BONUS_WEAPON_DAMAGE_LONG_RANGE_MIN_RANGE":{
+		"mod_type": "skip", 
+		"stat": "EBaseWeaponDamageIncrease"
+	},
+    "MODIFIER_VALUE_MOVEMENT_SPEED_SLOW_PERCENT":{
+		"mod_type": "skip", 
+		"stat": "EMaxMoveSpeed"
+	},
+    "MODIFIER_VALUE_DAMAGE_PERCENT":{
+		"mod_type": "skip", 
+		"stat": "ETechPower"
+	},
+    "MODIFIER_VALUE_BULLET_LIFESTEAL":{
+		"mod_type": "add", 
+		"stat": "EBulletLifesteal"
+	},
+    "MODIFIER_VALUE_BULLET_ARMOR_DAMAGE_RESIST_PERCENT":{
+		"mod_type": "skip", 
+		"stat": "EBulletArmorDamageReduction"
+	},
+    "MODIFIER_VALUE_BULLET_SHIELD_DAMAGE_PERCENT":{
+		"mod_type": "skip", 
+		"stat": "EBulletShieldHealth"
+	},
+    "MODIFIER_VALUE_HEIGHT_ADVANTAGE_BONUS_BASE_DAMAGE_PERCENT":{
+		"mod_type": "add", 
+		"stat": "EBaseWeaponDamageIncrease"
+	},
+    "MODIFIER_VALUE_SPRINT_SPEED_BONUS":{
+		"mod_type": "add", 
+		"stat": "ESprintSpeed"
+	},
+    "MODIFIER_VALUE_BULLET_ARMOR_DAMAGE_RESIST":{
+		"mod_type": "add", 
+		"stat": "EBulletArmorDamageReduction"
+	},
+    "MODIFIER_VALUE_BONUS_ATTACK_RANGE_PERCENT":{
+		"mod_type": "percent", 
+		"stat": "m_flDamageFalloffEndRange"
+	},
+    "MODIFIER_VALUE_ZOOM_INCREASE_PERCENT":{
+		"mod_type": "skip", 
+		"stat": "m_flZoomFOV"
+	},
+    "MODIFIER_VALUE_TECH_LIFESTEAL":{
+		"mod_type": "add", 
+		"stat": "ETechLifesteal"
+	},
+    "MODIFIER_VALUE_BULLET_ARMOR_DAMAGE_RESIST_REDUCTION":{
+		"mod_type": "skip", 
+		"stat": "EBulletArmorReduction"
+	},
+    "MODIFIER_VALUE_TECH_ARMOR_DAMAGE_RESIST_REDUCTION":{
+		"mod_type": "skip", 
+		"stat": "ETechArmorDamageReduction"
+	},
+    "MODIFIER_VALUE_STAMINA":{
+		"mod_type": "add", 
+		"stat": "EStamina"
+	},
+    "MODIFIER_VALUE_HEAL_AMP_RECEIVE_PERCENT":{
+		"mod_type": "skip", 
+		"stat": "EHealingOutput"
+	},
+    "MODIFIER_VALUE_HEAL_AMP_REGEN_PERCENT":{
+		"mod_type": "add", 
+		"stat": "EHealingOutput"
+	},
+    "MODIFIER_VALUE_RELOAD_SPEED":{
+		"mod_type": "add", 
+		"stat": "EReloadSpeed"
+	},
+    "MODIFIER_VALUE_TECH_ARMOR":{
+		"mod_type": "add", 
+		"stat": "ETechArmorDamageReduction"
+	},
+    "MODIFIER_VALUE_STATUS_RESISTANCE":{
+		"mod_type": "add", 
+		"stat": "EDebuffResist"
+	},
+    "MODIFIER_VALUE_BULLET_ARMOR":{
+		"mod_type": "add", 
+		"stat": "EBulletArmorDamageReduction"
+	},
+    "MODIFIER_VALUE_HEAL_AMP_CAST_PERCENT":{
+		"mod_type": "skip", 
+		"stat": "EHealingOutput"
+	},
+    "MODIFIER_VALUE_HEAL_DEGEN_RESISTANCE":{
+		"mod_type": "skip", 
+		"stat": "EHealingOutput"
+	},
+    "MODIFIER_VALUE_FIRE_RATE_SLOW":{
+		"mod_type": "skip", 
+		"stat": "EFireRate"
+	},
+    "MODIFIER_VALUE_MOVEMENT_SLOW_RESISTANCE":{
+		"mod_type": "skip", 
+		"stat": "EMaxMoveSpeed"
+	},
+    "MODIFIER_VALUE_STAMINA_REGEN_PER_SECOND_PERCENTAGE":{
+		"mod_type": "add", 
+		"stat": "EStaminaRegenIncrease"
+	},
+    "MODIFIER_VALUE_AIR_MOVE_DISTANCE_INCREASE_PERCENT":{
+		"mod_type": "skip", 
+		"stat": "AirMoveIncreasePercent"
+	},
+    "MODIFIER_VALUE_COOLDOWN_REDUCTION_PERCENTAGE":{
+		"mod_type": "add", 
+		"stat": "ETechCooldown"
+	},
+    "MODIFIER_VALUE_TECH_RANGE_PERCENT":{
+		"mod_type": "add", 
+		"stat": "ETechRange"
+	},
+    "MODIFIER_VALUE_TECH_RADIUS_PERCENT":{
+		"mod_type": "skip", 
+		"stat": "ETechDuration"
+	},
+    "MODIFIER_VALUE_BONUS_ABILITY_CHARGES":{
+		"mod_type": "add", 
+		"stat": "EMaxChargesIncrease"
+	},
+    "MODIFIER_VALUE_TECH_DAMAGE_PERCENT":{
+		"mod_type": "skip", 
+		"stat": "ETechPower"
+	},
+    "MODIFIER_VALUE_COOLDOWN_BETWEEN_CHARGE_REDUCTION_PERCENTAGE":{
+		"mod_type": "add", 
+		"stat": "ETechCooldownBetweenChargeUses"
+	},
+    "MODIFIER_VALUE_BONUS_ABILITY_DURATION_PERCENTAGE":{
+		"mod_type": "add", 
+		"stat": "ETechDuration"
+	},
+    "MODIFIER_VALUE_MOVEMENT_GROUND_DASH_REDUCTION_PERCENT":{
+		"mod_type": "skip", 
+		"stat": "EMaxMoveSpeed"
+	},
+    "MODIFIER_VALUE_RESPAWN_TIME_ADDITIVE":{
+		"mod_type": "skip", 
+		"stat": "SpawnTimePenalty"
+	},
+    "MODIFIER_VALUE_AIR_CONTROL_PERCENT":{
+		"mod_type": "skip", 
+		"stat": "AirControlPercent"
+	},
+    "MODIFIER_VALUE_BASE_WEAPON_DAMAGE_TAKEN_PERCENT":{
+		"mod_type": "skip", 
+		"stat": "BonusBaseWeaponDamageTaken"
+	},
+    "MODIFIER_VALUE_MOVEMENT_SLIDE_DISTANCE_SCALE":{
+		"mod_type": "skip", 
+		"stat": "SlideScale"
+	},
+    "MODIFIER_VALUE_INVALID":{
+		"mod_type": "skip", 
+		"stat": "ChannelMoveSpeed"
+	},
+    "MODIFIER_VALUE_ANIMATION_FRAME_SKIP_RATE":{
+		"mod_type": "skip", 
+		"stat": "SkipFrames"
+	},
+    "MODIFIER_VALUE_IMBUED_BONUS_DAMAGE":{
+		"mod_type": "skip", 
+		"stat": "ImbuedBonusDamage"
+	},
+    "MODIFIER_VALUE_HEALTH_MAX_PERCENT":{
+		"mod_type": "add", 
+		"stat": "EMaxHealth"
+	},
+    "MODIFIER_VALUE_BASE_BULLET_DAMAGE_PERCENT":{
+		"mod_type": "skip", 
+		"stat": "WeaponPowerPerKill"
+	},
+    "MODIFIER_VALUE_BONUS_CRIT_DAMAGE_PERCENT":{
+		"mod_type": "skip", 
+		"stat": "BonusHeadshotDamage"
+	},
+    "MODIFIER_VALUE_MELEE_TRAVEL_DISTANCE_PERCENTAGE":{
+		"mod_type": "skip", 
+		"stat": "MeleeDistanceScale"
+	}
+}

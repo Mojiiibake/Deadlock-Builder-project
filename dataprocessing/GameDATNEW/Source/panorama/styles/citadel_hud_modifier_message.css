@@ -1,0 +1,145 @@
+/* Prettified by Source 2 Viewer 10.2.0.0 - https://valveresourceformat.github.io */
+
+CitadelModifierMessage
+{
+	horizontal-align: center;
+	vertical-align: bottom;
+	height: 250px;
+	width: 300px;
+	margin-right: 250px;
+	margin-bottom: 160px;
+	visibility: visible;
+}
+
+#MessagesContainer
+{
+	height: 100%;
+	width: 100%;
+}
+
+@keyframes 'ShowMessage'
+{
+	0%
+	{
+		pre-transform-scale2d: 1;
+		transform: rotateZ(0deg);
+	}
+	
+	30%
+	{
+		pre-transform-scale2d: 1.2;
+		transform: rotateZ(-1deg) translateX(10px);
+	}
+	
+	100%
+	{
+		pre-transform-scale2d: 1;
+		transform: rotateZ(0deg);
+	}
+	
+}
+
+#MessageLabel
+{
+	font-size: 20px;
+	max-height: 30px;
+	text-overflow: shrink;
+	opacity: 1;
+	color: white;
+	text-shadow: 0px 0px 0px 4.0 rgb(255, 94, 94);
+	font-weight: bold;
+	font-style: italic;
+	width: fit-children;
+	vertical-align: middle;
+	horizontal-align: right;
+	z-index: 3;
+}
+
+.MessageContainer.ShowingModifierMessage
+{
+	animation-name: ShowMessage;
+	animation-duration: 1.1s;
+	animation-iteration-count: 1;
+	transition-property: opacity;
+	transition-duration: 0.2s;
+	animation-timing-function: ease-out;
+	opacity: 1;
+}
+
+.IsBuff #MessageLabel
+{
+	color: offWhite;
+	text-shadow: 0px 0px 0px 4.0 offBlack;
+}
+
+.MessageContainer
+{
+	opacity: 0;
+	flow-children: right;
+	padding: 10px;
+}
+
+#MessagesContainer1
+{
+	transform: rotateZ(0deg);
+	margin-bottom: 180px;
+	vertical-align: bottom;
+	horizontal-align: left;
+	padding-right: 0px;
+}
+
+#MessagesContainer2
+{
+	margin-bottom: 125px;
+	vertical-align: bottom;
+	transform: rotateZ(0deg);
+	padding-right: 0px;
+}
+
+#MessagesContainer3
+{
+	margin-bottom: 70px;
+	vertical-align: bottom;
+	horizontal-align: left;
+	transform: rotateZ(0deg);
+	padding-right: 0px;
+}
+
+#MessagesContainer4
+{
+	margin-bottom: 15px;
+	margin-right: 0px;
+	transform: rotateZ(0deg);
+	vertical-align: bottom;
+	horizontal-align: left;
+}
+
+#HeroImage
+{
+	width: 50px;
+	height: 50px;
+	margin-top: 0px;
+	horizontal-align: left;
+	img-shadow: 0px 0px 0px 5.0 #000000;
+	background-size: contain;
+	vertical-align: middle;
+	margin-right: -5px;
+}
+
+#AbilityIcon
+{
+	width: 30px;
+	height: 30px;
+	vertical-align: middle;
+	img-shadow: 0px 0px 0px 5.0 #000000;
+	opacity: 1;
+	wash-color: offWhite;
+	opacity: 0.7;
+	margin-right: 5px;
+}
+
+.NoCaster #HeroImage,.NoAbilityImage #AbilityIcon
+{
+	visibility: collapse;
+}
+

@@ -1,0 +1,134 @@
+{
+    "hero_inferno": {
+        "ESlot_Signature_1": "Catalyst",
+        "ESlot_Signature_2": "Flame Dash",
+        "ESlot_Signature_3": "Afterburn",
+        "ESlot_Signature_4": "Concussive Combustion"
+    },
+    "hero_gigawatt": {
+        "ESlot_Signature_1": "Lightning ball",
+        "ESlot_Signature_2": "Static Charge",
+        "ESlot_Signature_3": "Power Surge",
+        "ESlot_Signature_4": "Storm Cloud"
+    },
+    "hero_hornet": {
+        "ESlot_Signature_1": "Stake",
+        "ESlot_Signature_2": "Flight",
+        "ESlot_Signature_3": "Crow Familiar",
+        "ESlot_Signature_4": "Assassinate"
+    },
+    "hero_ghost": {
+        "ESlot_Signature_1": "Essence Bomb",
+        "ESlot_Signature_2": "Life Drain",
+        "ESlot_Signature_3": "Malice",
+        "ESlot_Signature_4": "Soul Exchange"
+    },
+    "hero_atlas": {
+        "ESlot_Signature_1": "Siphon Life",
+        "ESlot_Signature_2": "Shoulder charge",
+        "ESlot_Signature_3": "Infernal Resilience",
+        "ESlot_Signature_4": "Seismic Impact"
+    },
+    "hero_wraith": {
+        "ESlot_Signature_1": "Card trick",
+        "ESlot_Signature_2": "Project Mind",
+        "ESlot_Signature_3": "Full Auto",
+        "ESlot_Signature_4": "Telekinesis"
+    },
+    "hero_forge": {
+        "ESlot_Signature_1": "Mini Turret",
+        "ESlot_Signature_2": "Medicinal Specter",
+        "ESlot_Signature_3": "Spectral Wall",
+        "ESlot_Signature_4": "Heavy Barrage"
+    },
+    "hero_chrono": {
+        "ESlot_Signature_1": "Pulse Grenade",
+        "ESlot_Signature_2": "Time Wall",
+        "ESlot_Signature_3": "Kinetic Carbine",
+        "ESlot_Signature_4": "Paradoxical Swap"
+    },
+    "hero_dynamo": {
+        "ESlot_Signature_1": "Kinetic Pulse",
+        "ESlot_Signature_2": "Quantum Entanglement",
+        "ESlot_Signature_3": "Rejuvenating Aurora",
+        "ESlot_Signature_4": "Singularity"
+    },
+    "hero_kelvin": {
+        "ESlot_Signature_1": "Frost Grenade",
+        "ESlot_Signature_2": "Ice Path",
+        "ESlot_Signature_3": "Arctic Beam",
+        "ESlot_Signature_4": "Frozen Shelter"
+    },
+    "hero_haze": {
+        "ESlot_Signature_1": "Sleep Dagger",
+        "ESlot_Signature_2": "Smoke Bomb",
+        "ESlot_Signature_3": "Fixation",
+        "ESlot_Signature_4": "Bullet Dance"
+    },
+    "hero_bebop": {
+        "ESlot_Signature_1": "Exploding Uppercut",
+        "ESlot_Signature_2": "Sticky Bomb",
+        "ESlot_Signature_3": "Hook",
+        "ESlot_Signature_4": "Hyper Beam"
+    },
+    "hero_orion": {
+        "ESlot_Signature_1": "Charged Shot",
+        "ESlot_Signature_2": "Rain of Arrows",
+        "ESlot_Signature_3": "Immobilizing Trap",
+        "ESlot_Signature_4": "Guided Owl"
+    },
+    "hero_krill": {
+        "ESlot_Signature_1": "Scorn",
+        "ESlot_Signature_2": "Burrow",
+        "ESlot_Signature_3": "Sand Blast",
+        "ESlot_Signature_4": "Combo"
+    },
+    "hero_shiv": {
+        "ESlot_Signature_1": "Serrated Knives",
+        "ESlot_Signature_2": "Slice and Dice",
+        "ESlot_Signature_3": "Bloodletting",
+        "ESlot_Signature_4": "Killing Blow"
+    },
+    "hero_tengu": {
+        "ESlot_Signature_1": "Kudzu Bomb",
+        "ESlot_Signature_2": "Watcher's Covenant",
+        "ESlot_Signature_3": "Stone Form",
+        "ESlot_Signature_4": "Air Drop"
+    },
+    "hero_warden": {
+        "ESlot_Signature_1": "Alchemical Flask",
+        "ESlot_Signature_2": "Willpower",
+        "ESlot_Signature_3": "Binding Word",
+        "ESlot_Signature_4": "Last Stand"
+    },
+    "hero_yamato": {
+        "ESlot_Signature_1": "Power Slash",
+        "ESlot_Signature_2": "Flying Strike",
+        "ESlot_Signature_3": "Crimson Slash",
+        "ESlot_Signature_4": "Shadow Transformation"
+    },
+    "hero_lash": {
+        "ESlot_Signature_1": "Ground Strike",
+        "ESlot_Signature_2": "Grapple",
+        "ESlot_Signature_3": "Flog",
+        "ESlot_Signature_4": "Death Slam"
+    },
+    "hero_viscous": {
+        "ESlot_Signature_1": "Splatter",
+        "ESlot_Signature_2": "The Cube",
+        "ESlot_Signature_3": "Puddle Punch",
+        "ESlot_Signature_4": "Goo Ball"
+    },
+    "hero_synth": {
+        "ESlot_Signature_1": "Barrage",
+        "ESlot_Signature_2": "Flying Cloak",
+        "ESlot_Signature_3": "Enchanter's Satchel",
+        "ESlot_Signature_4": "Affliction"
+    },
+    "hero_mirage": {
+        "ESlot_Signature_1": "Tornado",
+        "ESlot_Signature_2": "Fire Scarabs",
+        "ESlot_Signature_3": "Djinn's Mark",
+        "ESlot_Signature_4": "Traveler"
+    }
+}
